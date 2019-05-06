@@ -1,4 +1,4 @@
-## Scraping pdf files using pyquery
+## Scraping pdf files using pdfquery
 Pdf files can be converted to xml and be queried using pdfquery. It supports both xpath using the underlying and css 
 selector like syntax. 
 
